@@ -36,7 +36,7 @@ Replace `<base_url>` with the actual base URL of the WordPress site you want to 
 ### Example
 
 ```sh
-python script.py https://example.com/
+python scraper.py https://example.com/
 ```
 
 ## Script Details
