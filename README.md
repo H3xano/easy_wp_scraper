@@ -28,7 +28,7 @@ pip install requests beautifulsoup4
 3. Run the script with the base URL of the WordPress site you want to scrape.
 
 ```sh
-python script.py <base_url>
+python scraper.py <base_url>
 ```
 
 Replace `<base_url>` with the actual base URL of the WordPress site you want to scrape.
